@@ -1,3 +1,15 @@
-// Classes: otherBackground, bodyBackground, 
+// Classes: otherBackground, bodyBackground, backgroundTrivia
 
 // IDs: 
+
+body {
+	background-image : src(../images/backgroundUnchanged.jpg);
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position:center;
+}
+
+.otherBackground {
+	background-color: grey;
+}
+
